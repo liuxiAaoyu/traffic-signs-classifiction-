@@ -1,0 +1,8 @@
+data
+*.zip
+*.csv
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
